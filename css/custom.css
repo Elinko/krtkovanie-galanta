@@ -1,0 +1,32 @@
+.text-white {
+  color: #ffffff;
+}
+
+.no-margin {
+  margin: 0!important
+}
+
+.no-padding {
+  padding: 0!important
+}
+
+.video-player {
+  max-width: 100%;
+}
+
+.no-float {
+  float: none!important
+}
+
+.video-section {
+  position: relative;
+  cursor: pointer;
+}
+.video-section i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+  color: #000
+}
